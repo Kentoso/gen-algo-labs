@@ -211,13 +211,16 @@
 )
 #show table.cell.where(y: 0): set text(weight: "bold", fill: accent)
 
+#show link: it => text(fill: accent, underline(it))
+
 = Лабораторна робота № 1
 <лабораторна-робота-1>
 == Максимізація функції генетичним алгоритмом
 <максимізація-функції-генетичним-алгоритмом>
 
 Виконав: *Самусь Демʼян Михайлович* \
-Група: *ММШІ-2*
+Група: *ММШІ-2* \
+Репозиторій: #link("https://github.com/Kentoso/gen-algo-labs/tree/main/lab1")[github.com/Kentoso/gen-algo-labs/lab1]
 
 === Мета та постановка задачі
 <мета-та-постановка-задачі>

@@ -221,11 +221,14 @@
 )
 #show table.cell.where(y: 0): set text(weight: "bold", fill: accent)
 
+#show link: it => text(fill: accent, underline(it))
+
 = Лабораторна робота № 2
 == Задача комівояжера: генетичний алгоритм
 
 Виконав: *Самусь Демʼян Михайлович* \
-Група: *ММШІ-2*
+Група: *ММШІ-2* \
+Репозиторій: #link("https://github.com/Kentoso/gen-algo-labs/tree/main/lab2")[github.com/Kentoso/gen-algo-labs/lab2]
 
 === Мета та постановка задачі
 Знайти найкоротший замкнений маршрут у повному неорієнтованому графі:
