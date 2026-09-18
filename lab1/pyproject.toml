@@ -1,0 +1,6 @@
+[project]
+name = "lab1"
+version = "0.1.0"
+description = "Function maximization with a binary genetic algorithm"
+requires-python = ">=3.13"
+dependencies = []

@@ -1,0 +1,6 @@
+[project]
+name = "lab2"
+version = "0.1.0"
+description = "Travelling salesman problem with a genetic algorithm"
+requires-python = ">=3.13"
+dependencies = ["matplotlib>=3.10,<4"]
